@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class ConvertDeeplink2UrlRequest {
+public class ConvertDeepLink2UrlRequest {
 
 	private String deeplink;
 	
