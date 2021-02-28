@@ -29,6 +29,7 @@ setup new cluster menüsünden ilerlenir ve admin password trendyol2021 olarak b
 Couchbase ayaga kalkmasindan sonra,
 uygulamayi asagidaki komutlarla ayaga kaldirabilrisiniz
 
+Not: Localden çalıştırmak için application.yml içindeki database.host bilgisini 127.0.0.1 olarak setlemelisiniz.
 
 ```bash
 docker build -t deeplink:0.0.1 .
