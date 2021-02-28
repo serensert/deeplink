@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: deeplink
+database:
+  hostname: couchbase
+  user: Administrator
+  pass: trendyol2021
+  bucket: ReqsAndResps

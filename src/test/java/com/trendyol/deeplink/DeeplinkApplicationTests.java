@@ -1,6 +1,5 @@
 package com.trendyol.deeplink;
 
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
@@ -17,7 +16,6 @@ class DeepLinkApplicationTests {
 
 	
 
-	@Disabled
 	@Test
 	void allExamplesPerformance () throws Exception {
 		
